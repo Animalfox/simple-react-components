@@ -21,7 +21,7 @@ This project is a basic React application that demonstrates how to create and us
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/simple-react-components.git
+git clone https://github.com/animalfox/simple-react-components.git
 cd simple-react-components
 ```
 
