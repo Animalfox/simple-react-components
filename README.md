@@ -37,7 +37,7 @@ pnpm install
 pnpm run dev
 ```
 
-2. Open your browser and navigate to http://localhost:3000 to see the application running.
+2. Open your browser and navigate to http://localhost:5173 to see the application running.
 
 ## Components
 
